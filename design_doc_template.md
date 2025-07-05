@@ -18,7 +18,7 @@ Descripción...
 * Caso de uso 2
 * ...
 ---
-## Arquitectura
+## Arquitectura del software
 
 ### Diagramas
 poner diagramas de secuencia, uml, etc
